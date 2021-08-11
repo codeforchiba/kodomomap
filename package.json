@@ -22,7 +22,7 @@
     "luxon": "1.27.0",
     "mapbox-gl": "2.2.0",
     "mapbox-gl-vue": "2.0.4",
-    "nuxt": "2.15.6",
+    "nuxt": "2.15.8",
     "serialize-error": "8.0.0",
     "vuex-persistedstate": "3.2.0"
   },
