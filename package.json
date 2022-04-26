@@ -36,7 +36,7 @@
     "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-standard": "5.0.0",
     "eslint-plugin-vue": "7.9.0",
-    "sass": "1.32.13",
+    "sass": "1.51.0",
     "sass-loader": "10.1.0"
   },
   "engines": {
